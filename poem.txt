@@ -5,6 +5,7 @@ Blue
 Orange
 Red
 Green
+Indigo
 Yellow
 Blue 
 Colors of a rainbow
